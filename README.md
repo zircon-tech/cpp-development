@@ -1,6 +1,8 @@
 # Why consider C++?
 ![You are c++ brave](https://github.com/zircon-tech/cpp-development/blob/files-and-folders/Memes/cpp_meme1.jpg)
-C++ is a very versatile low-level language; it is very used to high performance solutions some of the use cases are AAA video games, IoT, embedded systems, and resource-heavy VR and AI applications. 
+
+
+C++ is a very versatile low-level language, it is very used to high performance solutions. Some of the use cases are AAA video games, IoT, embedded systems, and resource-heavy VR and AI applications. 
 
 On Blockchain development, we can see it on bitcoin’s core and underneath solidity language. 
 
@@ -23,7 +25,7 @@ Depending on your goal with C++ development and your operating system, there are
 
 ## Syntaxes
 If you are familiar with C, C# or Java you will not struggle to get up to speed with C++ syntaxes. 
-Here there is a great repository with a summarize explanation of C++ syntaxes, best way to learn is with practice and leave some great places to find information. 
+Here there is a great repository with a summarize explanation of C++ syntaxes, best way to learn is with practice and here are some great places to find information. 
 - [CPPTutorial | Derek Banas](https://github.com/derekbanas/CPPTutorial/blob/main/cpp-tut.cpp)
 - [CPP Tutorial with examples and Quiz | W3schools](https://www.w3schools.com/cpp/default.asp)
 - [CPP Basics | GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm)
@@ -31,7 +33,7 @@ Here there is a great repository with a summarize explanation of C++ syntaxes, b
 
 ## Libraries
 One great source to check libraries is: 
-- cplusplus
+- [cplusplus](https://www.cplusplus.com/reference/)
 
 
 
@@ -48,7 +50,7 @@ One great source to check libraries is:
 ## Useful links / Sources
 - [Dear ImGUI | Open source Graphical User Interface for C++](https://github.com/ocornut/imgui)
 ### About Bitcoin Source Code 
-The Bitcoin Source Code: A Guided Tour - Part 1, Block Time and Spacing | Dev Oskii
+[The Bitcoin Source Code: A Guided Tour - Part 1, Block Time and Spacing | Dev Oskii](https://www.youtube.com/watch?v=duAcEElZpNk)
 ## Books 
 ### About C++
 - C++ A beginers guide, Herbert Schild 

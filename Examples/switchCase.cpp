@@ -35,6 +35,6 @@ int main()
     char symbolic1 = 'r';
     int octResult;
     octResult = charToOctNum(symbolic1);
-    cout << symbolic1 << endl; // Returns 4
+    cout << octResult << endl; // Returns 4
     return 0;
 }
