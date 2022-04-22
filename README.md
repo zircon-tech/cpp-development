@@ -1,5 +1,5 @@
 # Why consider C++?
-![You are c++ brave](https://github.com/zircon-tech/cpp-development/blob/files-and-folders/Memes/cpp_meme1.jpg)
+![You are c++ brave](https://github.com/zircon-tech/cpp-development/blob/main/Memes/cpp_meme1.jpg)
 
 
 C++ is a very versatile low-level language, it is very used to high performance solutions. Some of the use cases are AAA video games, IoT, embedded systems, and resource-heavy VR and AI applications. 
